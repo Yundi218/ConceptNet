@@ -1,6 +1,6 @@
 # Concept-to-Pixel: Prompt-Free Universal Medical Image Segmentation
 
-[![Paper](https://img.shields.io/badge/cs.CV-arXiv%3AXXXX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/2603.17746)
+[![arXiv](https://img.shields.io/badge/arxiv-2603.17746-b31b1b.svg)](https://arxiv.org/abs/2603.17746)
 
 ## 📖 Introduction
 
