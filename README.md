@@ -2,6 +2,36 @@
 
 [![arXiv](https://img.shields.io/badge/arxiv-2603.17746-b31b1b.svg)](https://arxiv.org/abs/2603.17746)
 
+<div align="center">
+    <span class="author-block">
+    <a target="_blank">Haoyun Chen</a><sup>1,2*</sup>,</span>
+    <span class="author-block">
+    <a href="https://scholar.google.com/citations?user=x1pODsMAAAAJ&hl=en" target="_blank">Fenghe Tang</a><sup>1,2*</sup>,</span>
+    <span class="author-block">
+    <a href="https://scholar.google.com/citations?user=r0-tZ8cAAAAJ&hl=en" target="_blank">Wenxin Ma</a><sup>1,2</sup>,</span>
+    <span class="author-block">
+    <a href="https://scholar.google.com/citations?user=8eNm2GMAAAAJ&hl=en" target="_blank">S. Kevin Zhou</a><sup>1,2†</sup>
+    </span>
+</div>
+<div align="center">
+    <p><sup>*</sup>Equal contribution. <sup>†</sup>Corresponding author.</p>
+</div>
+
+<br>
+
+<div align="center">
+    <sup>1</sup>
+    <a target='_blank'>School of Biomedical Engineering, University of Science and Technology of China</a>&emsp;
+    <br>
+    <sup>2</sup> <a target='_blank'>Suzhou Institute for Advanced Research, University of Science and Technology of China</a>&emsp;
+    <br>
+</div>
+
+
+<br>
+<br>
+
+
 ## 📖 Introduction
 
 
